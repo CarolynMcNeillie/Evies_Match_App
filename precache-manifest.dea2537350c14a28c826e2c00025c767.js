@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e876299cc2f09f31180bcc9e77d3e72e",
+    "revision": "ed78ad2d372a10417b104fa3d4074d40",
     "url": "/Evies_Match_App/index.html"
   },
   {
-    "revision": "bc66fc001bfaa9b689f0",
+    "revision": "759d234a66dd8c7eceab",
     "url": "/Evies_Match_App/static/css/main.cd0d757d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Evies_Match_App/static/js/2.f0ae6d09.chunk.js"
   },
   {
-    "revision": "bc66fc001bfaa9b689f0",
-    "url": "/Evies_Match_App/static/js/main.a8e2bc46.chunk.js"
+    "revision": "759d234a66dd8c7eceab",
+    "url": "/Evies_Match_App/static/js/main.d40b4f32.chunk.js"
   },
   {
     "revision": "e73692017d7379ec951e",

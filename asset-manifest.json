@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Evies_Match_App/static/css/main.cd0d757d.chunk.css",
-    "main.js": "/Evies_Match_App/static/js/main.a8e2bc46.chunk.js",
-    "main.js.map": "/Evies_Match_App/static/js/main.a8e2bc46.chunk.js.map",
+    "main.js": "/Evies_Match_App/static/js/main.d40b4f32.chunk.js",
+    "main.js.map": "/Evies_Match_App/static/js/main.d40b4f32.chunk.js.map",
     "runtime-main.js": "/Evies_Match_App/static/js/runtime-main.ebe11ca6.js",
     "runtime-main.js.map": "/Evies_Match_App/static/js/runtime-main.ebe11ca6.js.map",
     "static/js/2.f0ae6d09.chunk.js": "/Evies_Match_App/static/js/2.f0ae6d09.chunk.js",
     "static/js/2.f0ae6d09.chunk.js.map": "/Evies_Match_App/static/js/2.f0ae6d09.chunk.js.map",
     "index.html": "/Evies_Match_App/index.html",
-    "precache-manifest.01e095a9f6ae0095c1a9cdf49651b97d.js": "/Evies_Match_App/precache-manifest.01e095a9f6ae0095c1a9cdf49651b97d.js",
+    "precache-manifest.dea2537350c14a28c826e2c00025c767.js": "/Evies_Match_App/precache-manifest.dea2537350c14a28c826e2c00025c767.js",
     "service-worker.js": "/Evies_Match_App/service-worker.js",
     "static/css/main.cd0d757d.chunk.css.map": "/Evies_Match_App/static/css/main.cd0d757d.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.ebe11ca6.js",
     "static/js/2.f0ae6d09.chunk.js",
     "static/css/main.cd0d757d.chunk.css",
-    "static/js/main.a8e2bc46.chunk.js"
+    "static/js/main.d40b4f32.chunk.js"
   ]
 }
