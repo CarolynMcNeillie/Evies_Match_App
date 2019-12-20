@@ -12,7 +12,7 @@
   transition: 0.2s opacity ease-in;
 
   // Animated gradients from https://www.gradient-animator.com
-  background: linear-gradient(270deg, #ffea00, #ffa600);
+  background: linear-gradient(to bottom, rgb(182, 230, 152) 0%, #20B2AA 100%);
   background-size: 400% 400%;
   animation: winner 23s ease infinite;
 
@@ -43,7 +43,7 @@
     text-transform: uppercase;
     letter-spacing: 0.1em;
     color: crimson;
-    text-shadow: 1px 1px darkred;
+    text-shadow: 2px 2px darkred;
   }
 
   p {
