@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Evies_Match_App/precache-manifest.7669d361d2e721272fdbf16ffe899e63.js"
+  "/Evies_Match_App/precache-manifest.01e095a9f6ae0095c1a9cdf49651b97d.js"
 );
 
 self.addEventListener('message', (event) => {
