@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Evies_Match_App/static/css/main.cd0d757d.chunk.css",
-    "main.js": "/Evies_Match_App/static/js/main.d40b4f32.chunk.js",
-    "main.js.map": "/Evies_Match_App/static/js/main.d40b4f32.chunk.js.map",
+    "main.js": "/Evies_Match_App/static/js/main.f201d3dd.chunk.js",
+    "main.js.map": "/Evies_Match_App/static/js/main.f201d3dd.chunk.js.map",
     "runtime-main.js": "/Evies_Match_App/static/js/runtime-main.ebe11ca6.js",
     "runtime-main.js.map": "/Evies_Match_App/static/js/runtime-main.ebe11ca6.js.map",
-    "static/js/2.f0ae6d09.chunk.js": "/Evies_Match_App/static/js/2.f0ae6d09.chunk.js",
-    "static/js/2.f0ae6d09.chunk.js.map": "/Evies_Match_App/static/js/2.f0ae6d09.chunk.js.map",
+    "static/js/2.31f2f0c8.chunk.js": "/Evies_Match_App/static/js/2.31f2f0c8.chunk.js",
+    "static/js/2.31f2f0c8.chunk.js.map": "/Evies_Match_App/static/js/2.31f2f0c8.chunk.js.map",
     "index.html": "/Evies_Match_App/index.html",
-    "precache-manifest.dea2537350c14a28c826e2c00025c767.js": "/Evies_Match_App/precache-manifest.dea2537350c14a28c826e2c00025c767.js",
+    "precache-manifest.c042e33d8cc1f492be3403a2a63b0c07.js": "/Evies_Match_App/precache-manifest.c042e33d8cc1f492be3403a2a63b0c07.js",
     "service-worker.js": "/Evies_Match_App/service-worker.js",
     "static/css/main.cd0d757d.chunk.css.map": "/Evies_Match_App/static/css/main.cd0d757d.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.ebe11ca6.js",
-    "static/js/2.f0ae6d09.chunk.js",
+    "static/js/2.31f2f0c8.chunk.js",
     "static/css/main.cd0d757d.chunk.css",
-    "static/js/main.d40b4f32.chunk.js"
+    "static/js/main.f201d3dd.chunk.js"
   ]
 }
